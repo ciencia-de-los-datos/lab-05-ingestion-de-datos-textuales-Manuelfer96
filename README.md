@@ -1,5 +1,5 @@
-La información requerida para este laboratio esta almacenada en el archivo 
-"data.zip" ubicado en la carpeta raíz. Descomprima este archivo. 
+La información requerida para este laboratio esta almacenada en el archivo
+"data.zip" ubicado en la carpeta raíz. Descomprima este archivo.
 
 Como resultado obtendra la siguiente estructura de archivos:
 
@@ -32,7 +32,7 @@ test/
         ...
 ```
 
-A partir de esta informacion debe generar dos archivos llamados "train_dataset.csv" y 
+A partir de esta informacion debe generar dos archivos llamados "train_dataset.csv" y
 "test_dataset.csv". Estos archivos deben tener la siguiente estructura:
 
 * phrase: Texto de la frase. hay una frase por cada archivo de texto.
@@ -49,4 +49,3 @@ Cada archivo tendria una estructura similar a la siguiente:
 |  3 | Both operating profit and net sales for the three-month period increased , respectively from EUR16 .0 m and EUR139m , as compared to the corresponding quarter in 2006 | positive |
 |  4 | Tampere Science Parks is a Finnish company that owns , leases and builds office properties and it specialises in facilities for technology-oriented businesses         | neutral  |
 ```
-
